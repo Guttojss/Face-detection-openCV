@@ -16,7 +16,7 @@
 
 # Installation
 ## Requirements
-- [OpenCV 4.5.1](https://opencv.org/)
+- [OpenCV 4.5.1](https://opencv.org/) Already Installed
 - [Visual Studio 2019](https://visualstudio.microsoft.com/)
 - [HaarCascade_Frontal_Face Classifiers]()
 ## Setup
