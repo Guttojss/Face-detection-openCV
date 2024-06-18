@@ -1,3 +1,6 @@
+# I COULD NOT MAKE THE CODE WORK
+
+
 # Real-time-Face-Recognition-OpenCV 4.5.1 & C++
  
 ### Recognize and manipulate the Faces using Face-Recogniton Application System.
