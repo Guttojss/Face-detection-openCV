@@ -22,12 +22,3 @@
 ## Setup
 [![Youtube](https://img.shields.io/badge/-Youtube%20-red)](https://youtu.be/2FYm3GOonhk)
 [![Medium](https://img.shields.io/badge/%20-Medium-lightgrey)](https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d)
-# Follow-Us
-
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- [Aarush Srivastava](https://twitter.com/aarushsrivast17?s=08)
-- [Nitish Sharma](https://twitter.com/itsnitish22)
-
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [Aarush](https://www.linkedin.com/in/aarush-srivastava/) 
-- [Nitish](https://www.linkedin.com/in/itsnitish22/)
